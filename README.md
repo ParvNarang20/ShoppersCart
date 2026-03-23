@@ -2,7 +2,7 @@
 
 1. Project Overview
 
-ShopSphere is a responsive web application that displays products using a public API. Users can search, filter, and sort products dynamically. The project demonstrates JavaScript concepts, API integration, and UI development.
+ShoppersCart is a responsive web application that displays products using a public API. Users can search, filter, and sort products dynamically. The project demonstrates JavaScript concepts, API integration, and UI development.
 
 
 2. Purpose
@@ -41,7 +41,7 @@ It provides product title, price, category, image, and description.
 
 i) Clone the repository:
 
-git clone https://github.com/your-username/shopsphere.git
+git clone https://github.com/your-username/ShoppersCart.git
 
 ii) Open the folder and run:
 
