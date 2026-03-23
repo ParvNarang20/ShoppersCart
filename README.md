@@ -1,4 +1,4 @@
-# ShopSphere – Product Listing Web App
+# ShoppersCart – Product Listing Web App
 
 1. Project Overview
 
