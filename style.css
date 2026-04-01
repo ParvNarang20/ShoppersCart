@@ -1,0 +1,40 @@
+body {
+  font-family: Arial;
+  padding: 20px;
+  background-color: #f2f2f2;
+}
+
+h1 {
+  text-align: center;
+}
+
+#products {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 15px;
+  margin-top: 20px;
+}
+
+.card {
+  background: white;
+  padding: 10px;
+  text-align: center;
+  border: 1px solid #ccc;
+}
+
+.card img {
+  height: 120px;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  #products {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 480px) {
+  #products {
+    grid-template-columns: 1fr;
+  }
+}
