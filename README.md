@@ -1,8 +1,8 @@
-# ShopSphere – Product Listing Web App
+# ShoppertCart – Product Listing Web App
 
 ## Project Overview
 
-ShopSphere is a responsive web application that displays products using a public API. Users can search, filter, and sort products dynamically. The project demonstrates JavaScript concepts, API integration, and UI development.
+ShoppertCart is a responsive web application that displays products using a public API. Users can search, filter, and sort products dynamically. The project demonstrates JavaScript concepts, API integration, and UI development.
 
 ---
 
